@@ -1,7 +1,7 @@
 **Summer Olympic Athletes Data Analysis**
 
 
-This project analyses historical summer olympics athlete data to uncover trends in participation,sports performance,
+This project analyzes historical summer olympics athlete data to uncover trends in participation,sports performance,
 athletes demographics,and medical achievements.
 
 *TOOLS USED*
